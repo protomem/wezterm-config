@@ -19,7 +19,7 @@ config.window_padding = {
   bottom = 0,
 }
 
-config.color_scheme = "Gruvbox dark, hard (base16)"
+config.color_scheme = "Tokyo Night"
 
 config.font = wezterm.font("JetBrainsMono Nerd Font", { weight = "Bold" })
 config.font_size = 14
